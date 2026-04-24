@@ -1,7 +1,7 @@
 ---
-title: "From browser to prompt"
-description: "A dbt docs writer on why the quality of your docs source matters more than ever in the AI era — and how we brought docs.getdbt.com into your AI workflow."
-slug: from-browser-to-prompt
+title: "the devil in the docs"
+description: "The devil in the details and the details are the docs that we write."
+slug: the-devil-in-the-docs
 authors: [mirna_wong]
 tags: [ai, docs]
 hide_table_of_contents: false
