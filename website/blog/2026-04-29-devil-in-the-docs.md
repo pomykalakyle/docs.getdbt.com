@@ -60,7 +60,7 @@ We added two tools to the dbt MCP server under a new **"Product Docs"** category
 
 The workflow mirrors how a human would use the docs: search first to find what's relevant, then fetch the full content. The difference is that it happens inside whatever AI tool you're already using, without a context switch.
 
-Because these tools hit public URLs, they work without a dbt Cloud account. Every dbt user — open source or Platform — gets docs access through MCP, for free.
+Because these tools hit public URLs, they work without a dbt platform account. Every dbt user — open source or Platform — gets docs access through MCP, for free.
 
 Alongside this, the DX team has been building out [dbt agent skills](https://skills.sh/dbt-labs/dbt-agent-skills) — including the `fetching-dbt-docs` skill — which remain the best path for agents not connected via MCP. The skill and MCP tools complement each other rather than compete. The skill is the workaround that proved the demand. The MCP integration is the native solution.
 
